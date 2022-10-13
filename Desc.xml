@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppDrv>
+<Type>DRV</Type><Cat>COMMUNICATION</Cat><Folder>windows</Folder><Desc>Realtek RTL8111G Ethernet Controller &amp; Realtek RTL8106E-US Ethernet Controller</Desc><LaunchProcess>setup.exe</LaunchProcess><CommandLine>setup.exe</CommandLine><ArchiveLimit>0</ArchiveLimit><ClearContent>N</ClearContent><Version>8.035.0716.2014</Version></AppDrv>
